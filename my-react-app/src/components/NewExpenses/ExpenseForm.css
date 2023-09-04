@@ -24,3 +24,11 @@
   .new-expense__actions {
     text-align: right;
   }
+
+  .new-expense__buttons {
+    display: flex
+  }
+
+  .new-expense__center {
+    text-align: center;
+  }
